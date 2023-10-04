@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0343ACD6-3AD4-4FB4-840F-420FE3C6F0D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindCenterOfStarGraph", "src\FindCenterOfStarGraph\FindCenterOfStarGraph.csproj", "{0E784E2A-EF78-4D1D-9B97-F45427963169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E784E2A-EF78-4D1D-9B97-F45427963169} = {0343ACD6-3AD4-4FB4-840F-420FE3C6F0D6}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E784E2A-EF78-4D1D-9B97-F45427963169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E784E2A-EF78-4D1D-9B97-F45427963169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E784E2A-EF78-4D1D-9B97-F45427963169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E784E2A-EF78-4D1D-9B97-F45427963169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
