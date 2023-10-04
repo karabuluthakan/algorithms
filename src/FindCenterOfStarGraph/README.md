@@ -47,4 +47,4 @@ public:
 };
 ```
 
-![Screenshot 2023-10-04 at 17.14.58.png](..%2F..%2F..%2F..%2FScreenshot%202023-10-04%20at%2017.14.58.png)
+![result.png](result.png)
